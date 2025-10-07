@@ -1,0 +1,337 @@
+ano,mes,setor,consumo_m3
+2022,1,Biblioteca Central,6940
+2022,1,Restaurante Universitário,6453
+2022,1,Hospital Veterinário,7423
+2022,1,CTU - Tecnologia,6287
+2022,1,CCA - Ciências Agrárias,2375
+2022,1,CECA - Educação,4324
+2022,1,Centro de Letras e Artes,6128
+2022,2,Biblioteca Central,6964
+2022,2,Restaurante Universitário,4098
+2022,2,Hospital Veterinário,5746
+2022,2,CTU - Tecnologia,5696
+2022,2,CCA - Ciências Agrárias,6999
+2022,2,CECA - Educação,6455
+2022,2,Centro de Letras e Artes,4913
+2022,3,Biblioteca Central,5095
+2022,3,Restaurante Universitário,4639
+2022,3,Hospital Veterinário,6672
+2022,3,CTU - Tecnologia,8702
+2022,3,CCA - Ciências Agrárias,4181
+2022,3,CECA - Educação,4078
+2022,3,Centro de Letras e Artes,3290
+2022,4,Biblioteca Central,5235
+2022,4,Restaurante Universitário,4092
+2022,4,Hospital Veterinário,4112
+2022,4,CTU - Tecnologia,4960
+2022,4,CCA - Ciências Agrárias,5052
+2022,4,CECA - Educação,3435
+2022,4,Centro de Letras e Artes,5833
+2022,5,Biblioteca Central,7400
+2022,5,Restaurante Universitário,6083
+2022,5,Hospital Veterinário,4895
+2022,5,CTU - Tecnologia,5724
+2022,5,CCA - Ciências Agrárias,5326
+2022,5,CECA - Educação,3338
+2022,5,Centro de Letras e Artes,7075
+2022,6,Biblioteca Central,4416
+2022,6,Restaurante Universitário,6020
+2022,6,Hospital Veterinário,6914
+2022,6,CTU - Tecnologia,4435
+2022,6,CCA - Ciências Agrárias,9366
+2022,6,CECA - Educação,5959
+2022,6,Centro de Letras e Artes,4244
+2022,7,Biblioteca Central,6044
+2022,7,Restaurante Universitário,4523
+2022,7,Hospital Veterinário,7400
+2022,7,CTU - Tecnologia,3026
+2022,7,CCA - Ciências Agrárias,9420
+2022,7,CECA - Educação,4361
+2022,7,Centro de Letras e Artes,4561
+2022,8,Biblioteca Central,5529
+2022,8,Restaurante Universitário,5217
+2022,8,Hospital Veterinário,3732
+2022,8,CTU - Tecnologia,3486
+2022,8,CCA - Ciências Agrárias,4129
+2022,8,CECA - Educação,3608
+2022,8,Centro de Letras e Artes,4780
+2022,9,Biblioteca Central,3167
+2022,9,Restaurante Universitário,8759
+2022,9,Hospital Veterinário,6736
+2022,9,CTU - Tecnologia,3982
+2022,9,CCA - Ciências Agrárias,5813
+2022,9,CECA - Educação,4930
+2022,9,Centro de Letras e Artes,5859
+2022,10,Biblioteca Central,6990
+2022,10,Restaurante Universitário,6975
+2022,10,Hospital Veterinário,5563
+2022,10,CTU - Tecnologia,4005
+2022,10,CCA - Ciências Agrárias,2821
+2022,10,CECA - Educação,3367
+2022,10,Centro de Letras e Artes,3119
+2022,11,Biblioteca Central,4539
+2022,11,Restaurante Universitário,5624
+2022,11,Hospital Veterinário,2618
+2022,11,CTU - Tecnologia,2672
+2022,11,CCA - Ciências Agrárias,4114
+2022,11,CECA - Educação,5641
+2022,11,Centro de Letras e Artes,5433
+2022,12,Biblioteca Central,4418
+2022,12,Restaurante Universitário,6358
+2022,12,Hospital Veterinário,7209
+2022,12,CTU - Tecnologia,5697
+2022,12,CCA - Ciências Agrárias,6956
+2022,12,CECA - Educação,6487
+2022,12,Centro de Letras e Artes,6929
+2023,1,Biblioteca Central,8161
+2023,1,Restaurante Universitário,5063
+2023,1,Hospital Veterinário,4433
+2023,1,CTU - Tecnologia,7362
+2023,1,CCA - Ciências Agrárias,3077
+2023,1,CECA - Educação,2479
+2023,1,Centro de Letras e Artes,5517
+2023,2,Biblioteca Central,4027
+2023,2,Restaurante Universitário,4670
+2023,2,Hospital Veterinário,3599
+2023,2,CTU - Tecnologia,2540
+2023,2,CCA - Ciências Agrárias,7090
+2023,2,CECA - Educação,7176
+2023,2,Centro de Letras e Artes,6141
+2023,3,Biblioteca Central,8585
+2023,3,Restaurante Universitário,5216
+2023,3,Hospital Veterinário,6456
+2023,3,CTU - Tecnologia,3002
+2023,3,CCA - Ciências Agrárias,8328
+2023,3,CECA - Educação,6810
+2023,3,Centro de Letras e Artes,5587
+2023,4,Biblioteca Central,6381
+2023,4,Restaurante Universitário,5749
+2023,4,Hospital Veterinário,5211
+2023,4,CTU - Tecnologia,3202
+2023,4,CCA - Ciências Agrárias,3857
+2023,4,CECA - Educação,5305
+2023,4,Centro de Letras e Artes,4835
+2023,5,Biblioteca Central,4702
+2023,5,Restaurante Universitário,6778
+2023,5,Hospital Veterinário,6889
+2023,5,CTU - Tecnologia,8609
+2023,5,CCA - Ciências Agrárias,4944
+2023,5,CECA - Educação,7554
+2023,5,Centro de Letras e Artes,3593
+2023,6,Biblioteca Central,6219
+2023,6,Restaurante Universitário,6282
+2023,6,Hospital Veterinário,3692
+2023,6,CTU - Tecnologia,4166
+2023,6,CCA - Ciências Agrárias,7538
+2023,6,CECA - Educação,7087
+2023,6,Centro de Letras e Artes,6782
+2023,7,Biblioteca Central,3376
+2023,7,Restaurante Universitário,4489
+2023,7,Hospital Veterinário,8384
+2023,7,CTU - Tecnologia,5911
+2023,7,CCA - Ciências Agrárias,8655
+2023,7,CECA - Educação,4967
+2023,7,Centro de Letras e Artes,5765
+2023,8,Biblioteca Central,6192
+2023,8,Restaurante Universitário,4801
+2023,8,Hospital Veterinário,6224
+2023,8,CTU - Tecnologia,6186
+2023,8,CCA - Ciências Agrárias,3775
+2023,8,CECA - Educação,3416
+2023,8,Centro de Letras e Artes,8384
+2023,9,Biblioteca Central,3460
+2023,9,Restaurante Universitário,10970
+2023,9,Hospital Veterinário,4562
+2023,9,CTU - Tecnologia,5049
+2023,9,CCA - Ciências Agrárias,4095
+2023,9,CECA - Educação,4223
+2023,9,Centro de Letras e Artes,8383
+2023,10,Biblioteca Central,4798
+2023,10,Restaurante Universitário,3354
+2023,10,Hospital Veterinário,6101
+2023,10,CTU - Tecnologia,4827
+2023,10,CCA - Ciências Agrárias,6739
+2023,10,CECA - Educação,2328
+2023,10,Centro de Letras e Artes,5519
+2023,11,Biblioteca Central,6233
+2023,11,Restaurante Universitário,2623
+2023,11,Hospital Veterinário,2702
+2023,11,CTU - Tecnologia,3968
+2023,11,CCA - Ciências Agrárias,3393
+2023,11,CECA - Educação,7562
+2023,11,Centro de Letras e Artes,5303
+2023,12,Biblioteca Central,6914
+2023,12,Restaurante Universitário,4363
+2023,12,Hospital Veterinário,4922
+2023,12,CTU - Tecnologia,3575
+2023,12,CCA - Ciências Agrárias,4841
+2023,12,CECA - Educação,2471
+2023,12,Centro de Letras e Artes,3267
+2024,1,Biblioteca Central,3020
+2024,1,Restaurante Universitário,3811
+2024,1,Hospital Veterinário,6057
+2024,1,CTU - Tecnologia,2171
+2024,1,CCA - Ciências Agrárias,5590
+2024,1,CECA - Educação,7012
+2024,1,Centro de Letras e Artes,4013
+2024,2,Biblioteca Central,6123
+2024,2,Restaurante Universitário,5916
+2024,2,Hospital Veterinário,10121
+2024,2,CTU - Tecnologia,3834
+2024,2,CCA - Ciências Agrárias,4077
+2024,2,CECA - Educação,5027
+2024,2,Centro de Letras e Artes,4907
+2024,3,Biblioteca Central,6480
+2024,3,Restaurante Universitário,6410
+2024,3,Hospital Veterinário,3614
+2024,3,CTU - Tecnologia,8255
+2024,3,CCA - Ciências Agrárias,7640
+2024,3,CECA - Educação,3892
+2024,3,Centro de Letras e Artes,5493
+2024,4,Biblioteca Central,4693
+2024,4,Restaurante Universitário,4868
+2024,4,Hospital Veterinário,5969
+2024,4,CTU - Tecnologia,3963
+2024,4,CCA - Ciências Agrárias,3758
+2024,4,CECA - Educação,4665
+2024,4,Centro de Letras e Artes,5116
+2024,5,Biblioteca Central,5820
+2024,5,Restaurante Universitário,6655
+2024,5,Hospital Veterinário,7988
+2024,5,CTU - Tecnologia,4538
+2024,5,CCA - Ciências Agrárias,3885
+2024,5,CECA - Educação,3167
+2024,5,Centro de Letras e Artes,5142
+2024,6,Biblioteca Central,6620
+2024,6,Restaurante Universitário,6286
+2024,6,Hospital Veterinário,4788
+2024,6,CTU - Tecnologia,7249
+2024,6,CCA - Ciências Agrárias,8715
+2024,6,CECA - Educação,6189
+2024,6,Centro de Letras e Artes,4450
+2024,7,Biblioteca Central,7032
+2024,7,Restaurante Universitário,5274
+2024,7,Hospital Veterinário,7022
+2024,7,CTU - Tecnologia,2475
+2024,7,CCA - Ciências Agrárias,7735
+2024,7,CECA - Educação,5947
+2024,7,Centro de Letras e Artes,3076
+2024,8,Biblioteca Central,6531
+2024,8,Restaurante Universitário,7668
+2024,8,Hospital Veterinário,2551
+2024,8,CTU - Tecnologia,5041
+2024,8,CCA - Ciências Agrárias,8726
+2024,8,CECA - Educação,8625
+2024,8,Centro de Letras e Artes,3960
+2024,9,Biblioteca Central,3533
+2024,9,Restaurante Universitário,4836
+2024,9,Hospital Veterinário,6040
+2024,9,CTU - Tecnologia,3057
+2024,9,CCA - Ciências Agrárias,2846
+2024,9,CECA - Educação,6788
+2024,9,Centro de Letras e Artes,6347
+2024,10,Biblioteca Central,9031
+2024,10,Restaurante Universitário,7230
+2024,10,Hospital Veterinário,6620
+2024,10,CTU - Tecnologia,4929
+2024,10,CCA - Ciências Agrárias,5695
+2024,10,CECA - Educação,4623
+2024,10,Centro de Letras e Artes,4046
+2024,11,Biblioteca Central,7241
+2024,11,Restaurante Universitário,4132
+2024,11,Hospital Veterinário,6173
+2024,11,CTU - Tecnologia,7427
+2024,11,CCA - Ciências Agrárias,6122
+2024,11,CECA - Educação,5485
+2024,11,Centro de Letras e Artes,8113
+2024,12,Biblioteca Central,3623
+2024,12,Restaurante Universitário,7518
+2024,12,Hospital Veterinário,5869
+2024,12,CTU - Tecnologia,4154
+2024,12,CCA - Ciências Agrárias,9664
+2024,12,CECA - Educação,4622
+2024,12,Centro de Letras e Artes,4065
+2025,1,Biblioteca Central,3333
+2025,1,Restaurante Universitário,4642
+2025,1,Hospital Veterinário,8768
+2025,1,CTU - Tecnologia,4570
+2025,1,CCA - Ciências Agrárias,4166
+2025,1,CECA - Educação,5226
+2025,1,Centro de Letras e Artes,7519
+2025,2,Biblioteca Central,5688
+2025,2,Restaurante Universitário,3718
+2025,2,Hospital Veterinário,3768
+2025,2,CTU - Tecnologia,4732
+2025,2,CCA - Ciências Agrárias,4426
+2025,2,CECA - Educação,5432
+2025,2,Centro de Letras e Artes,6239
+2025,3,Biblioteca Central,5556
+2025,3,Restaurante Universitário,6956
+2025,3,Hospital Veterinário,11584
+2025,3,CTU - Tecnologia,3940
+2025,3,CCA - Ciências Agrárias,5063
+2025,3,CECA - Educação,3808
+2025,3,Centro de Letras e Artes,4270
+2025,4,Biblioteca Central,8072
+2025,4,Restaurante Universitário,6405
+2025,4,Hospital Veterinário,4069
+2025,4,CTU - Tecnologia,6139
+2025,4,CCA - Ciências Agrárias,3524
+2025,4,CECA - Educação,6989
+2025,4,Centro de Letras e Artes,3692
+2025,5,Biblioteca Central,6094
+2025,5,Restaurante Universitário,7981
+2025,5,Hospital Veterinário,3586
+2025,5,CTU - Tecnologia,7879
+2025,5,CCA - Ciências Agrárias,8691
+2025,5,CECA - Educação,3208
+2025,5,Centro de Letras e Artes,3112
+2025,6,Biblioteca Central,4178
+2025,6,Restaurante Universitário,6151
+2025,6,Hospital Veterinário,8296
+2025,6,CTU - Tecnologia,6075
+2025,6,CCA - Ciências Agrárias,3049
+2025,6,CECA - Educação,7709
+2025,6,Centro de Letras e Artes,5262
+2025,7,Biblioteca Central,6065
+2025,7,Restaurante Universitário,4597
+2025,7,Hospital Veterinário,4576
+2025,7,CTU - Tecnologia,6962
+2025,7,CCA - Ciências Agrárias,2443
+2025,7,CECA - Educação,6661
+2025,7,Centro de Letras e Artes,5104
+2025,8,Biblioteca Central,3584
+2025,8,Restaurante Universitário,4904
+2025,8,Hospital Veterinário,4514
+2025,8,CTU - Tecnologia,7037
+2025,8,CCA - Ciências Agrárias,6391
+2025,8,CECA - Educação,7569
+2025,8,Centro de Letras e Artes,3798
+2025,9,Biblioteca Central,5043
+2025,9,Restaurante Universitário,6004
+2025,9,Hospital Veterinário,4207
+2025,9,CTU - Tecnologia,4723
+2025,9,CCA - Ciências Agrárias,3411
+2025,9,CECA - Educação,3408
+2025,9,Centro de Letras e Artes,5303
+2025,10,Biblioteca Central,8111
+2025,10,Restaurante Universitário,7636
+2025,10,Hospital Veterinário,6490
+2025,10,CTU - Tecnologia,7409
+2025,10,CCA - Ciências Agrárias,3142
+2025,10,CECA - Educação,4509
+2025,10,Centro de Letras e Artes,6785
+2025,11,Biblioteca Central,3072
+2025,11,Restaurante Universitário,6203
+2025,11,Hospital Veterinário,5107
+2025,11,CTU - Tecnologia,2835
+2025,11,CCA - Ciências Agrárias,6350
+2025,11,CECA - Educação,6617
+2025,11,Centro de Letras e Artes,5766
+2025,12,Biblioteca Central,7264
+2025,12,Restaurante Universitário,2551
+2025,12,Hospital Veterinário,3702
+2025,12,CTU - Tecnologia,4035
+2025,12,CCA - Ciências Agrárias,3558
+2025,12,CECA - Educação,4201
+2025,12,Centro de Letras e Artes,6895
